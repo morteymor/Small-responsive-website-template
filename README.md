@@ -1,4 +1,4 @@
-Small-responsive-website-template
+Small responsive website template
 =================================
 
 Starting point to create small responsive website.
